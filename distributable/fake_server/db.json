@@ -1,0 +1,206 @@
+{
+    "current-orders": [
+        {
+            "orderId": "1",
+            "productName": "OnePlus 7",
+            "quantity": "1",
+            "amount": "33000",
+            "deliveryAddress": "Viman Nagar, Pune",
+            "orderDate": "10/02/2020",
+            "deliveryDate": "14/02/2020",
+            "deliveryAgent": "Jon Snow"
+        },
+        {
+            "orderId": "2",
+            "productName": "Hotwheels car set",
+            "quantity": "1",
+            "amount": "2000",
+            "deliveryAddress": "Tingre Nagar, Pune",
+            "orderDate": "15/01/2020",
+            "deliveryDate": "23/01/2020",
+            "deliveryAgent": "Sansa Stark"
+        },
+        {
+            "orderId": "3",
+            "productName": "Washing Machine",
+            "quantity": "1",
+            "amount": "20000",
+            "deliveryAddress": "Kharadi, Pune",
+            "orderDate": "06/02/2020",
+            "deliveryDate": "12/02/2020",
+            "deliveryAgent": "Arya Stark"
+        },
+        {
+            "orderId": "4",
+            "productName": "T-shirts",
+            "quantity": "5",
+            "amount": "1200",
+            "deliveryAddress": "Baner, Pune",
+            "orderDate": "06/12/2019",
+            "deliveryDate": "11/12/2019",
+            "deliveryAgent": "Khal Drogo"
+        },
+        {
+            "orderId": "5",
+            "productName": "Bobble Head",
+            "quantity": "3",
+            "amount": "6000",
+            "deliveryAddress": "Hinjewadi, Pune",
+            "orderDate": "16/02/2020",
+            "deliveryDate": "22/02/2020",
+            "deliveryAgent": "Eddard Stark"
+        },
+        {
+            "orderId": "6",
+            "productName": "Desk lamp",
+            "quantity": "1",
+            "amount": "500",
+            "deliveryAddress": "Kharadi, Pune",
+            "orderDate": "26/03/2020",
+            "deliveryDate": "01/04/2020",
+            "deliveryAgent": "Tyrion Lannister"
+        },
+        {
+            "orderId": "7",
+            "productName": "Books",
+            "quantity": "4",
+            "amount": "1600",
+            "deliveryAddress": "Kothrud, Pune",
+            "orderDate": "06/01/2020",
+            "deliveryDate": "12/01/2020",
+            "deliveryAgent": "George Martin"
+        },
+        {
+            "orderId": "8",
+            "productName": "Water bottle",
+            "quantity": "2",
+            "amount": "800",
+            "deliveryAddress": "Dhanori, Pune",
+            "orderDate": "23/11/2019",
+            "deliveryDate": "29/11/2019",
+            "deliveryAgent": "Dave Hill"
+        },
+        {
+            "orderId": "9",
+            "productName": "Tupperware box",
+            "quantity": "1",
+            "amount": "1200",
+            "deliveryAddress": "Chinchwad, Pune",
+            "orderDate": "14/12/2019",
+            "deliveryDate": "21/12/2019",
+            "deliveryAgent": "Iron Man"
+        },
+        {
+            "orderId": "10",
+            "productName": "Rayban Sunglass",
+            "quantity": "1",
+            "amount": "3000",
+            "deliveryAddress": "Dadar, Mumbai",
+            "orderDate": "14/04/2020",
+            "deliveryDate": "21/04/2020",
+            "deliveryAgent": "Black Panther"
+        }
+    ],
+    "pending-orders": [
+        {
+            "orderId": "1101",
+            "productName": "OnePlus 7",
+            "quantity": "1",
+            "amount": "33000",
+            "deliveryAddress": "Viman Nagar, Pune",
+            "orderDate": "10/02/2020",
+            "deliveryDate": "14/02/2020",
+            "deliveryAgent": "Jon Snow"
+        },
+        {
+            "orderId": "1123",
+            "productName": "Hotwheels car set",
+            "quantity": "1",
+            "amount": "2000",
+            "deliveryAddress": "Tingre Nagar, Pune",
+            "orderDate": "15/01/2020",
+            "deliveryDate": "23/01/2020",
+            "deliveryAgent": "Sansa Stark"
+        },
+        {
+            "orderId": "3212",
+            "productName": "Washing Machine",
+            "quantity": "1",
+            "amount": "20000",
+            "deliveryAddress": "Kharadi, Pune",
+            "orderDate": "06/02/2020",
+            "deliveryDate": "12/02/2020",
+            "deliveryAgent": "Arya Stark"
+        },
+        {
+            "orderId": "1241",
+            "productName": "T-shirts",
+            "quantity": "5",
+            "amount": "1200",
+            "deliveryAddress": "Baner, Pune",
+            "orderDate": "06/12/2019",
+            "deliveryDate": "11/12/2019",
+            "deliveryAgent": "Khal Drogo"
+        },
+        {
+            "orderId": "3125",
+            "productName": "Bobble Head",
+            "quantity": "3",
+            "amount": "6000",
+            "deliveryAddress": "Hinjewadi, Pune",
+            "orderDate": "16/02/2020",
+            "deliveryDate": "22/02/2020",
+            "deliveryAgent": "Eddard Stark"
+        },
+        {
+            "orderId": "9826",
+            "productName": "Desk lamp",
+            "quantity": "1",
+            "amount": "500",
+            "deliveryAddress": "Kharadi, Pune",
+            "orderDate": "26/03/2020",
+            "deliveryDate": "01/04/2020",
+            "deliveryAgent": "Tyrion Lannister"
+        },
+        {
+            "orderId": "7871",
+            "productName": "Books",
+            "quantity": "4",
+            "amount": "1600",
+            "deliveryAddress": "Kothrud, Pune",
+            "orderDate": "06/01/2020",
+            "deliveryDate": "12/01/2020",
+            "deliveryAgent": "George Martin"
+        },
+        {
+            "orderId": "8001",
+            "productName": "Water bottle",
+            "quantity": "2",
+            "amount": "800",
+            "deliveryAddress": "Dhanori, Pune",
+            "orderDate": "23/11/2019",
+            "deliveryDate": "29/11/2019",
+            "deliveryAgent": "Dave Hill"
+        },
+        {
+            "orderId": "972",
+            "productName": "Tupperware box",
+            "quantity": "1",
+            "amount": "1200",
+            "deliveryAddress": "Chinchwad, Pune",
+            "orderDate": "14/12/2019",
+            "deliveryDate": "21/12/2019",
+            "deliveryAgent": "Iron Man"
+        },
+        {
+            "orderId": "9102",
+            "productName": "Rayban Sunglass",
+            "quantity": "1",
+            "amount": "3000",
+            "deliveryAddress": "Dadar, Mumbai",
+            "orderDate": "14/04/2020",
+            "deliveryDate": "21/04/2020",
+            "deliveryAgent": "Black Panther"
+        }
+    ]
+}
