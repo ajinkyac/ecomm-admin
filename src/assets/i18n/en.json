@@ -1,0 +1,81 @@
+{
+    "dummy": {
+        "lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    "sidebar": {
+        "user_identity": "CRWD Admin",
+        "link_dashboard": "Dashboard",
+        "link_orders": "Orders",
+        "link_orders_current": "Current",
+        "link_orders_pending": "Pending",
+        "link_orders_processed": "Processed",
+        "link_products": "Products",
+        "link_inventory": "Inventory"
+    },
+    "navbar": {
+        "alerts": {
+            "dropdown_header": "Alerts",
+            "alerts_show_all": "Show All Alerts",
+            "random_alerts": {
+                "1": {
+                    "alert_date": "December 12, 2019",
+                    "alert_message": "Vendor dispute for rural areas."
+                },
+                "2": {
+                    "alert_date": "January 7, 2020",
+                    "alert_message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+                },
+                "3": {
+                    "alert_date": "January 27, 2020",
+                    "alert_message": "Sed ut perspiciatis unde omnis iste natus error sit"
+                }
+            }
+        },
+        "messages": {
+            "dropdown_header": "Messages",
+            "messages_show_all": "Read More Messages",
+            "random_messages": {
+                "1": {
+                    "message": "Hi there! I am wondering if you can help me with a problem I've been having.",
+                    "sender": "Amy Farrah Fowler · 58m"
+                },
+                "2": {
+                    "message": "Payment failed for order #CQAZ1230",
+                    "sender": "Howard Wolowitz · 1d"
+                },
+                "3": {
+                    "message": "Report loss of package from vendor",
+                    "sender": "Sheldon Cooper · 2d"
+                },
+                "4": {
+                    "message": "Trouble finding a product",
+                    "sender": "Penny · 3w"
+                }
+            }
+        },
+        "user_profile": {
+            "admin_user": "Admin",
+            "option_profile": "Profile",
+            "option_settings": "Settings",
+            "option_activity": "Activity Log",
+            "option_logout": "Logout"
+        }
+    },
+    "dashboard": {
+        "header": "Dashboard",
+        "report": "Generate report",
+        "monthly_orders": "Orders (Monthly)",
+        "monthly_orders_earning": "$40,000",
+        "annual_orders": "Orders (Annual)",
+        "annual_orders_earning": "$215,000",
+        "tasks": "Tasks",
+        "task_progress": "50%",
+        "pending_requests": "Pending Requests",
+        "pending_requests_count": "20",
+        "overview": "Overview",
+        "revenue": "Revenue"
+    },
+    "footer": {
+        "copyright": "Copyright &#169; Crowdstrike market 2020"
+    }
+}

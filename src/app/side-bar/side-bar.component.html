@@ -1,0 +1,48 @@
+<ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+    <a class="sidebar-brand d-flex align-items-center justify-content-center" routerLink="/dashboard" routerLinkActive="active">
+        <div class="sidebar-brand-icon">
+            <i class="fas fa-user"></i>
+        </div>
+        <div class="sidebar-brand-text mx-3">{{ 'sidebar.user_identity' | translate }}</div>
+    </a>
+
+    <hr class="sidebar-divider my-0">
+
+    <li class="nav-item active">
+        <a class="nav-link" routerLink="/dashboard" routerLinkActive="active">
+            <i class="fas fa-fw fa-tachometer-alt"></i>
+            <span>{{ 'sidebar.link_dashboard' | translate }}</span>
+        </a>
+    </li>
+
+    <hr class="sidebar-divider">
+
+    <li class="nav-item">
+        <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true"
+            aria-controls="collapseTwo">
+            <i class="fas fa-fw fa-clipboard-list"></i>
+            <span>{{ 'sidebar.link_orders' | translate }}</span>
+        </a>
+        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+            <div class="bg-white py-2 collapse-inner rounded">
+                <a class="collapse-item" routerLink="/current-orders" routerLinkActive="active">{{ 'sidebar.link_orders_current' | translate }}</a>
+                <a class="collapse-item" routerLink="/pending-orders" routerLinkActive="active">{{ 'sidebar.link_orders_pending' | translate }}</a>
+                <a class="collapse-item" routerLink="/processed-orders" routerLinkActive="active">{{ 'sidebar.link_orders_processed' | translate }}</a>
+            </div>
+        </div>
+    </li>
+
+    <li class="nav-item">
+        <a class="nav-link collapsed">
+            <i class="fas fa-fw fa-boxes"></i>
+            <span>{{ 'sidebar.link_products' | translate }}</span>
+        </a>
+    </li>
+
+    <li class="nav-item">
+        <a class="nav-link collapsed">
+            <i class="fas fa-fw fa-warehouse"></i>
+            <span>{{ 'sidebar.link_inventory' | translate }}</span>
+        </a>
+    </li>
+</ul>
